@@ -4,7 +4,7 @@ Réalisez un petit jeu nommé cookie clicker, le but étant de détecter les cli
 
 Votre code ira dans le fichier `app.js`
 
-Pour commencer, dans le dossier faites `npm install` pour récupèrer les dépendaneces.
+Pour commencer, dans le dossier faites `npm install` pour récupèrer les dépendances.
 
 N'oubliez pas de lancer `caddy` dans le dossier. 
 
